@@ -30,5 +30,5 @@
     height: 11.875rem;
     border: 1px solid black;
     border-radius: .3125rem;
-    background-color: black;
+    background-color: rgba(0, 0, 0, .5);
 }
