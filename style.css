@@ -6,7 +6,9 @@
     box-sizing: border-box;
 }
 
-main-container {
+.main-container {
+    margin: 0 auto;
     max-width: 43.75rem;
     aspect-ratio: 1;
+    border: 1px solid black;
 }
