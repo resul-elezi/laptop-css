@@ -20,5 +20,15 @@
     width: 21.875rem;
     height: 12.5rem;
     border: 1px solid black;
-    background-color: #000;
+    background-color: rgba(0, 0, 0, .1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.display-border {
+    width: 21.25rem;
+    height: 11.875rem;
+    border: 1px solid black;
+    border-radius: .3125rem;
+    background-color: black;
 }
