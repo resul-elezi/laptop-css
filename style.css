@@ -33,9 +33,8 @@
     background-color: rgba(0, 0, 0, .5);
 }
 .keyboard-wrapper {
-    width: 388px;
+    width: 408px;
     height: 175px;
-    
-    background: blue;
-    clip-path: polygon(5% 0, 95% 0, 100% 100%, 0% 100%);
+    background: rgba(0, 0, 0, .1);
+    clip-path: polygon(7% 0, 93% 0, 100% 100%, 0% 100%);
 }
