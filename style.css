@@ -33,8 +33,18 @@
     background-color: rgba(0, 0, 0, .5);
 }
 .keyboard-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 408px;
     height: 175px;
-    background: rgba(0, 0, 0, .1);
+    background: rgba(0, 0, 0, .2);
     clip-path: polygon(7% 0, 93% 0, 100% 100%, 0% 100%);
+}
+.keyboard-border {
+    width: 398px;
+    height: 165px;
+    background: rgba(0, 0, 0, .5);
+    clip-path: polygon(7% 0, 93% 0, 100% 100%, 0% 100%);
+    /* border-radius: 5px; */
 }
